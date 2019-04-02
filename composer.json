@@ -1,0 +1,5 @@
+{
+	"name": "drupal/pathauto",
+	"type": "drupal-module",
+	"minimum-stability": "dev",
+}
